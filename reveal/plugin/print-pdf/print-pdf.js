@@ -56,7 +56,7 @@ page.open(inputFile, function(status) {
 		console.log( 'Printed successfully in ' + outputFile);
 		page.render( outputFile );
 		phantom.exit();
-	}, 1000);
+	}, 5000);
 
 });
 

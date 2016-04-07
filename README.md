@@ -2,6 +2,9 @@
 
 Slides de l'atelier d'introduction à Docker.
 
+Consulter la présentation sur Github Pages:  
+[guillemcanal.github.io/docker-prez](http://guillemcanal.github.io/docker-prez)
+
 ## Dépendances
 
 - [make](http://linux.die.net/man/1/make)
