@@ -1,0 +1,4 @@
+prez:
+  image: gcanal/reveal:3.2.0
+  volumes:
+    - ./reveal:/src
